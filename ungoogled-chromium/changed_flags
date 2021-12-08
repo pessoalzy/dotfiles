@@ -1,0 +1,6 @@
+# switches and flags introduced by ungoogled-chromium.
+--bookmark-bar-ntp=never
+--scroll-tabs=always
+--show-avatar-button=never
+
+# switches and flags of chromium.
