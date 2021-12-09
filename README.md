@@ -1,1 +1,3 @@
 # dotfiles
+
+Configurations and odifications.
