@@ -1,0 +1,3 @@
+[http]
+    # to disable proxy `git config --global --unset http.proxy`
+    proxy = socks5h://*:*
